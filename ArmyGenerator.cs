@@ -21,6 +21,7 @@ public static class Program
 
             Console.WriteLine("Incorrect value!!!");
 
+            Console.WriteLine("Incorrect value!!!");
         }
 
         Run(count);
